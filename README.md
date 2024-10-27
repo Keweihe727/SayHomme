@@ -1,9 +1,9 @@
 # House Price Prediction Using XGBoost
 
-## 📋 Project Overview
+## Project Overview
 This project builds a **house price prediction model** using **XGBoost**, a powerful machine learning algorithm. The model utilizes various features of houses (like square footage, location, number of bedrooms, etc.) to accurately estimate their prices. The predictions are log-transformed to improve accuracy, and SHAP values are employed to interpret the feature importance for individual predictions.
 
-## 🎯 Objectives
+## Objectives
 - Predict house prices using advanced machine learning techniques.
 - Improve prediction accuracy through **feature engineering** and **hyperparameter tuning**.
 - Provide **explanations** for individual predictions using **SHAP values**.
@@ -11,7 +11,7 @@ This project builds a **house price prediction model** using **XGBoost**, a powe
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**: Data processing and model building.
 - **XGBoost**: Machine learning model.
 - **SHAP**: Model interpretability.
@@ -21,7 +21,7 @@ This project builds a **house price prediction model** using **XGBoost**, a powe
 
 ---
 
-## 📊 Dataset
+## Dataset
 The dataset contains various features relevant to house prices, including:
 - **Structural Features**: Number of bedrooms, bathrooms, floors, etc.
 - **Location Features**: Latitude, longitude, proximity to waterfront.
